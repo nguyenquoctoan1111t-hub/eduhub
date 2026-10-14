@@ -17,3 +17,4 @@ EduHub là hệ thống quản lý câu lạc bộ và sự kiện sinh viên.
 - Thiết kế sơ đồ lớp.
 - Xây dựng các lớp bằng C#.
 - Thực hành Git, GitHub và Pull Request.
+- 0024419320
